@@ -1,0 +1,13 @@
+bits.o
+matlab_workspace.mat
+nmf
+matrixNormArray.mexa64
+nmf.mexa64
+nmf.o
+nnls.mexa64
+nnls.o
+predict.o
+script.m
+readInput.o
+nmf_sparse.o
+.vscode/settings.json
